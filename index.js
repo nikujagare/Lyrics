@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import SQLiteDemo from './App';
 
-AppRegistry.registerComponent('lyrics', () => App);
+AppRegistry.registerComponent('lyrics', () => SQLiteDemo);
